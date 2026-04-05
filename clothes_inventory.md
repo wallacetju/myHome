@@ -8,6 +8,7 @@
 - 📦 **图集 A (成堆大合影)**: [IMG_1428.jpg](clothes/IMG_1428.jpg)
 - 📦 **图集 B (大衣平铺细节)**: [IMG_1433.jpg](clothes/IMG_1433.jpg)
 - 📦 **图集 C (薄外套/冲锋衣 1434-1445)**: [IMG_1434.jpg](clothes/IMG_1434.jpg), [IMG_1435.jpg](clothes/IMG_1435.jpg), [IMG_1436.jpg](clothes/IMG_1436.jpg), [IMG_1438.jpg](clothes/IMG_1438.jpg), [IMG_1439.jpg](clothes/IMG_1439.jpg), [IMG_1440.jpg](clothes/IMG_1440.jpg), [IMG_1441.jpg](clothes/IMG_1441.jpg), [IMG_1442.jpg](clothes/IMG_1442.jpg), [IMG_1443.jpg](clothes/IMG_1443.jpg), [IMG_1444.jpg](clothes/IMG_1444.jpg), [IMG_1445.jpg](clothes/IMG_1445.jpg)
+- 📦 **图集 D (下装 1446-1459)**: [IMG_1446.jpg](clothes/IMG_1446.jpg), [IMG_1447.jpg](clothes/IMG_1447.jpg), [IMG_1449.jpg](clothes/IMG_1449.jpg), [IMG_1452.jpg](clothes/IMG_1452.jpg), [IMG_1453.jpg](clothes/IMG_1453.jpg), [IMG_1454.jpg](clothes/IMG_1454.jpg), [IMG_1455.jpg](clothes/IMG_1455.jpg), [IMG_1456.jpg](clothes/IMG_1456.jpg), [IMG_1457.jpg](clothes/IMG_1457.jpg), [IMG_1458.jpg](clothes/IMG_1458.jpg), [IMG_1459.jpg](clothes/IMG_1459.jpg)
 
 *注：以后买了新衣服，只需把新照片存进 `clothes` 目录下并在下方追加即可。*
 
@@ -38,6 +39,17 @@
 | **OD-022** | **La Sportiva 冲锋衣** | 冲锋壳 (黑) | 春/秋 | 🏃另档收纳 | [IMG_1443](clothes/IMG_1443.jpg) (La Sportiva 标识) | 保留：专业户外性能强，作为主力壳。 |
 | **OD-023** | **Nike 抓绒外套** | 抓绒中层 (灰) | 春/秋/室内 | 📦寄回老家 | [IMG_1444](clothes/IMG_1444.jpg) (Nike 标签、灰蓝内里) | 寄回老家：不太喜欢，留给家人日常穿。 |
 | **OD-024** | **蓝黑拼色冲锋衣/软壳** | 户外防风雨 (蓝黑) | 春/秋 | 📦寄回老家 | [IMG_1445](clothes/IMG_1445.jpg) (蓝黑拼色、翻领) | 寄回老家：冲锋壳已够用，不太喜欢可留给家人。 |
+| **OD-025** | **Toread (探路者) 深灰户外裤** | 机能户外裤 (深灰) | 四季 | 🏠身边留置 | [IMG_1446](clothes/IMG_1446.jpg) (Toread 标、带腰带) | 保留：专业户外机能裤，耐磨实用。 |
+| **OD-026** | **浅蓝牛仔裤** | 经典牛仔 (浅蓝) | 四季 | 🏠身边留置 | [IMG_1447](clothes/IMG_1447.jpg) (浅蓝、直筒) | 保留：休闲百搭，春夏必备。 |
+| **OD-027** | **深蓝牛仔裤** | 经典牛仔 (深蓝) | 四季 | 🏠身边留置 | [IMG_1449](clothes/IMG_1449.jpg) (深蓝、水洗) | 保留：经典百搭，四季通用。 |
+| **OD-028** | **Nike 黑色运动裤** | 运动长裤 (黑) | 四季 | 🏠身边留置 | [IMG_1452](clothes/IMG_1452.jpg) (Nike 银标、拉链口袋) | 保留：专业运动裤，舒适实用。 |
+| **OD-029** | **灰绿束脚休闲裤** | 休闲束脚裤 (灰绿) | 四季 | 🏠身边留置 | [IMG_1453](clothes/IMG_1453.jpg) (灰绿、束脚) | 保留：舒适居家/外出两用。 |
+| **OD-030** | **Nike 黑色运动裤 (2)** | 运动长裤 (黑) | 四季 | 🏠身边留置 | [IMG_1454](clothes/IMG_1454.jpg) (Nike 灰标) | 保留：舒适运动基础款。 |
+| **OD-031** | **白色休闲裤** | 休闲长裤 (白) | 春夏 | 🏠身边留置 | [IMG_1455](clothes/IMG_1455.jpg) (白色、带腰扣) | 保留：春夏清爽，风格独特。 |
+| **OD-032** | **Puma 白红条纹运动裤** | 运动长裤 (白/红) | 春夏 | 📦寄回老家 | [IMG_1456](clothes/IMG_1456.jpg) (Puma 标、红侧条) | 寄回老家：风格较张扬，实穿频率较低。 |
+| **OD-033** | **深灰抽绳休闲裤** | 居家/休闲 (深灰) | 四季 | 🏠身边留置 | [IMG_1457](clothes/IMG_1457.jpg) (深灰、抽绳) | 保留：极高舒适度，适合飞行/长途旅行。 |
+| **OD-034** | **浅卡其色休闲裤** | 商务休闲 (浅卡其) | 四季 | 📦寄回老家 | [IMG_1458](clothes/IMG_1458.jpg) (浅卡其、直筒) | 寄回老家：你指定寄回老家。 |
+| **OD-035** | **黑色修身牛仔裤** | 基础长裤 (黑) | 四季 | 🏠身边留置 | [IMG_1459](clothes/IMG_1459.jpg) (黑、挺括) | 保留：绝对的神级基础款。 |
 
 ---
 > [!TIP]
